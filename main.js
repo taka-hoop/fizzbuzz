@@ -4,7 +4,6 @@
 //   li.textContent = text.value;
 //   document.querySelector('ul').appendChild(li);
 
-//   for(let text.value = 1; text.value <= )
 
   
 
